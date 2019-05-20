@@ -1,0 +1,12 @@
+{
+ 	"manifest_version": 2,
+ 	"name": "affirm tab gen",
+ 	"version": "1.0",
+	"description": "each tab is a new start",
+	"icons": {
+		"16": "images/world-1.png"
+	},
+  	"chrome_url_overrides" : {
+    	"newtab": "index.html"
+  	}
+}
